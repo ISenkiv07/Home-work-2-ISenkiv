@@ -14,3 +14,6 @@ Change for Branch B
 
 
 Second change for Branch B
+
+
+change for merge conflict
