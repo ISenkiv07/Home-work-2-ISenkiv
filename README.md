@@ -8,3 +8,6 @@ Changes for Branch A
 
 
 Second change for Branch A
+
+
+Change for Branch B
